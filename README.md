@@ -1,2 +1,2 @@
 # live-classroom
-An android app fro parents to see the live footage of their child's classroom
+An android app for parents to see the live footage of their child's classroom
